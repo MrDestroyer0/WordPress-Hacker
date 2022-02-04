@@ -1,3 +1,4 @@
+#usr/bin/python3
 import os, random, time, socket, sys, requests, builtwith, json, urllib.parse
 
 RED = '\033[31m'
